@@ -36,7 +36,7 @@ namespace Coletor.Examine
 
             AppendParentNodeIdsFilter(ref q, criteria.ParentNodeIds);
             AppendDocumentTypesFilter(ref q, criteria.NodeTypeAlias);
-            //AppendOrderFilter(ref q, criteria.OrderBy);
+            //AppendOrderFilter(ref q, criteria.OrderBy); 
 
             var search = q.Compile();
 
