@@ -1,0 +1,6 @@
+﻿{
+	"IndexerName": "ExternalIndexer",
+	"SpacedPathFieldName" : "coletorPath",
+	"PathFieldName" : "path",
+	"SortableFields" : ["createDate"]
+}
