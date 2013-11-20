@@ -194,6 +194,7 @@
   <ItemGroup>
     <Compile Include="Configuration.cs" />
     <Compile Include="ConfigurationManager.cs" />
+    <Compile Include="Mapper.cs" />
     <Compile Include="Searcher.cs" />
     <Compile Include="Umbraco_Site_Extensions\examineExtensions\ColetorExamineEvents.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
